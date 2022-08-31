@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /tmp
-pwd
+file /tmp/12-file_type
